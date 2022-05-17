@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jindudimuna
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me: email- danieldimuna@gmail.com,         
                               twitter- @Prodr3amer
