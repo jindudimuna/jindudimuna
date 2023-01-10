@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jindudimuna
+- <h1>👋 Hi, I’m @jindudimuna</h1>
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on front-end projects
