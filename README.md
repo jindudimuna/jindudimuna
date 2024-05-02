@@ -1,6 +1,5 @@
 - <h1>👋 Hi, I’m Jindu Dimuna</h1>
 - 👀 Fullstack developer with a focus on frontend web developement
-- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me: email- danieldimuna@gmail.com
 
